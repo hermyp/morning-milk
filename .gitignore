@@ -1,0 +1,8 @@
+# Executable
+morning-milk
+
+# ROM
+*.nes
+
+# Export
+*.png
